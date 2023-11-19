@@ -64,13 +64,12 @@ Kemudian untuk mengakses hasilnya melalui URL http://localhost/lab7_php_dasar/ph
 
         <h2>Menggunakan Variable</h2>
             <?php
-               $nim = "312210328";
-               $nama = 'Roswanda Nuraini';
+               $nim = "312210330";
+               $nama = 'Muhammad Arifin';
                echo "NIM : " . $nim . "<br>";
                echo "Nama : $nama"; 
             ?>
 
-![image](https://github.com/roswanda11/lab7web/assets/115516632/04809ddf-d5fb-4174-8e53-25411d6293f6)
 
 ## Predefine Variable $_GET
 
@@ -80,9 +79,6 @@ Kemudian untuk mengakses hasilnya melalui URL http://localhost/lab7_php_dasar/ph
         echo 'Selamat Datang ' . $_GET['nama'];
         ?>
      
-Untuk mengaksesnya gunakan URL http://localhost/lab7_php_dasar/latihan2.php?nama=Roswanda%20Nuraini
-
-![image](https://github.com/roswanda11/lab7web/assets/115516632/a155afb2-13be-4b19-9b8f-f383b299388e)
 
 ## Membuat Form
 
@@ -104,10 +100,6 @@ Untuk mengaksesnya gunakan URL http://localhost/lab7_php_dasar/latihan2.php?nama
       ?>
       </body>
       </html>
-
-## Output
-
-![image](https://github.com/roswanda11/lab7web/assets/115516632/52e5927c-660a-4e12-8d54-b317481d1fa5)
 
 ## Operator
 
@@ -476,27 +468,3 @@ Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nam
         </form>
         </body>
         </html> 
-
-![image](https://github.com/roswanda11/lab7web/assets/115516632/7396ce46-3af5-44f5-89e1-99f707034fe4)
-
-## Output
-
-![image](https://github.com/roswanda11/lab7web/assets/115516632/23bb6515-9916-42ee-be16-c03849627fcb)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
